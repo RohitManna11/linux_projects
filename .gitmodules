@@ -1,0 +1,3 @@
+[submodule "linux_monitoring_dashboard"]
+	path = linux_monitoring_dashboard
+	url = https://github.com/yourusername/linux_monitoring_dashboard.git
